@@ -1,4 +1,4 @@
-import Dashboard from './dashboard/Dashboard.jsx';
+import Dashboard from './dashboard/Dashboard.tsx';
 
 function App() {
   return <Dashboard />;
